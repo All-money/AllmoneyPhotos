@@ -10,7 +10,7 @@ const imageFilenames = [
   
   imageFilenames.forEach((filename) => {
     const img = document.createElement('img');
-    img.src = `..images/${filename}`;
+    img.src = `Images/${filename}`;
     img.alt = filename;
     img.loading = 'lazy';
     img.style.border = '1px solid #ccc';
