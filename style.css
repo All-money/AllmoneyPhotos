@@ -8,7 +8,7 @@ body, html {
   
   /* Landing page background */
   .landing-page {
-    background-image: url('images/MurrayFunction.jpg');
+    background-image: url('Images/MurrayFunction.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
