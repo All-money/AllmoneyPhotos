@@ -1,2 +1,2 @@
-# AllmoneyPhotos.github.io
+# AllmoneyPhotos
 Personal Website
