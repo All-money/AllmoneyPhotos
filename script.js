@@ -22,7 +22,7 @@ const imageFilenames = [
     'MurrayFunction.jpg',
     'JewleryPodium.jpg',
     "Almany's Lost Ring, a Vestige in Flesh,”",
-    "Jasmine's Finished Bells",
+    "Jasmine's Finished Bells"
   ];
   
   const galleryContainer = document.getElementById('gallery');
