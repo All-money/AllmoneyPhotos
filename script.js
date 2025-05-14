@@ -21,8 +21,8 @@
 const imageFilenames = [
     'MurrayFunction.jpg',
     'JewleryPodium.jpg',
-    '_MG_9255-1.jpg',
-    '_MG_9270-1.jpg'
+    "Almany's Lost Ring, a Vestige in Flesh,”",
+    "Jasmine's Finished Bells",
   ];
   
   const galleryContainer = document.getElementById('gallery');
