@@ -1,2 +1,1 @@
-# AllmoneyPhotos
-Personal Website
+
