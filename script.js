@@ -20,7 +20,7 @@
   
 const imageFilenames = [
     'MurrayFunction.jpg',
-    '_MG_1167-1.jpg',
+    'JewleryPodium.jpg',
     '_MG_9255-1.jpg',
     '_MG_9270-1.jpg'
   ];
