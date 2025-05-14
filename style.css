@@ -73,3 +73,28 @@ body, html {
     background-color: #ffb700;
   }
   
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.5rem;
+    padding: 2rem;
+    box-sizing: border-box;
+  }
+  
+  /* Images should fit within the container and maintain aspect ratio */
+  .gallery-grid img {
+    width: 100%;
+    height: auto;               /* keeps aspect ratio */
+    max-height: 300px;          /* limit vertical size */
+    object-fit: cover;          /* crop to fit nicely */
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+  }
+  
+  /* Optional: image hover effect */
+  .gallery-grid img:hover {
+    transform: scale(1.02);
+    border-color: #999;
+  }
